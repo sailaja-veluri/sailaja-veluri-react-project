@@ -1,0 +1,24 @@
+.weatherCard-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.temp-img-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.weather-img {
+  height: 50px;
+  width: 50px;
+}
+.temp {
+  font-size: 10px;
+}
+.humidity {
+  font-size: 20px;
+}
+.windSpeed {
+  font-size: 20px;
+}

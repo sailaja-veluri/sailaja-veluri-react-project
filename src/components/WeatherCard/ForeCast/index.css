@@ -1,0 +1,23 @@
+.forecast-item {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.date {
+  font-size: 10px;
+}
+.temp-img-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.weather-img {
+  height: 50px;
+  width: 50px;
+}
+.temp {
+    font-size: 10px;
+}
+.weather-condition {
+    font-size: 10px;
+}
